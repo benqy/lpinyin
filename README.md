@@ -8,6 +8,8 @@ lpinyin是一个汉字转拼音的Dart Package. 主要参考Java开源类库[jpi
 ⑤简繁体中文转换  
 ⑥支持添加用户自定义字典
 
+### 本分支用于兼容 null safety
+
 ### Pub
 
 ```yaml
